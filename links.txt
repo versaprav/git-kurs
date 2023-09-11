@@ -1,0 +1,10 @@
+
+
+
+1.https://www.markdownguide.org/cheat-sheet/
+
+2.https://learngitbranching.js.org/?locale=de_DE&amp;NODEMO=
+
+3.https://github.com/t3hm-training/intcode2023-workspaces
+
+4.https://www.gitkraken.com/learn/git/git-flow
